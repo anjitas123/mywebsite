@@ -7,7 +7,7 @@ body {
 
 header {
     background-color: #ff704d;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 20px;
 }
 
@@ -28,7 +28,7 @@ nav a:hover {
 }
 
 section {
-    background-color: white;
+    background-color: rgb(60, 28, 202);
     margin: 20px;
     padding: 20px;
     border-radius: 10px;
