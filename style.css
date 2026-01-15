@@ -1,15 +1,12 @@
-/* Page background and text */
 body {
     background-color: black;
     color: white;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-
     display: flex;
     justify-content: center;
 }
 
-/* Main container */
 .container {
     width: 85%;
     max-width: 1000px;
@@ -17,7 +14,6 @@ body {
     padding: 20px;
 }
 
-/* Navigation bar */
 nav {
     margin: 20px 0;
 }
@@ -33,22 +29,19 @@ nav a:hover {
     text-decoration: underline;
 }
 
-/* Recipe section */
-.recipe {
-    margin: 40px 0;
-    padding: 20px;
+.section {
     background-color: #111;
+    padding: 25px;
+    margin: 30px 0;
     border-radius: 10px;
 }
 
-/* Video center */
 iframe {
     display: block;
     margin: 20px auto;
     max-width: 100%;
 }
 
-/* Footer */
 footer {
     margin-top: 40px;
     font-size: 14px;
